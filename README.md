@@ -19,9 +19,11 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+![WDIA EX NO 2 CODE](https://user-images.githubusercontent.com/127816387/228433787-e1e85492-80f2-4ac9-9911-71067b4c5b8d.jpg)
 
 
 ## OUTPUT
+![WDIA EX NO 2 OUTPUT](https://user-images.githubusercontent.com/127816387/228433819-e9b67057-24d3-4c39-921e-313d5d43a520.jpg)
 
 
 ## RESULT
