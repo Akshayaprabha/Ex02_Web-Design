@@ -19,12 +19,36 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-![WDIA EX NO 2 CODE](https://user-images.githubusercontent.com/127816387/228433787-e1e85492-80f2-4ac9-9911-71067b4c5b8d.jpg)
+<html>
+<head>
+<title> Saveetha Engineering College</title>
+</head>
+<body bgcolor="cyan" text-"black">
+<h1 style-"text-align:center;">Saveetha Engineering College</h1>
+<hr width="px;" color="red">
+<ol type="A">
+<li>Agricultural Engineering</li>
+<li>Computer Science And Engineering</li>
+<li>Information Technology</li>
+<li>Data Science</li>
+<ul type-"disc">
+<li>Artificial Intelligence - Data Science</li>
+<li>Artificial Intelligence - Machine Learning</li>
+<li>Internet Of Things</li>
+</ul>
+<li>Electronics & Communication Engineering</li>
+<li>Electrical & Electronics Engineering</li>
+<li>Mechanical Engineering</li>
+</ol>
+</body>
+</html>
+
 
 
 ## OUTPUT
-![WDIA EX NO 2 OUTPUT](https://user-images.githubusercontent.com/127816387/228433819-e9b67057-24d3-4c39-921e-313d5d43a520.jpg)
 
+
+![WDIA EX NO 2 OUTPUT](https://user-images.githubusercontent.com/127816387/229417051-e97cdb86-3d7e-45d2-b416-c7479e49aff3.jpg)
 
 ## RESULT
   List of Departments in an Institution is created successfully.
